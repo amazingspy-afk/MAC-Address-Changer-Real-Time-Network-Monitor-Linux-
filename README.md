@@ -14,7 +14,7 @@ A Python-based MAC address spoofing tool with a user-friendly Tkinter GUI and re
 
 ## 📸 GUI Preview
 
-![screenshot](path/to/screenshot.png)
+
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +25,7 @@ A Python-based MAC address spoofing tool with a user-friendly Tkinter GUI and re
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/mac-address-changer.git
+git clone https://github.com/amazingsppy-afk/mac-address-changer.git
 cd mac-address-changer
 pip install -r requirements.txt
 python3 gui.py
